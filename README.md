@@ -14,4 +14,6 @@ By default, the code editor is locked to c++ as this is the only language the we
 
 Upon compiling your protocol, the canvas will automatically open and display your running protocol. 
 
-Please visit 
+Please visit [TARSHA.github.io](
+https://tarsha.github.io) for complete documentation and information.
+
